@@ -1,0 +1,1622 @@
+[
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-0",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-1",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-2",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-3",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-4",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_reward.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_money.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "truth_teller-5",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/truth_and_fitness.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-0",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-1",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-2",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-3",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-4",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_reward.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_money.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "genie-5",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/genie_and_fitness.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-0",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-1",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-2",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-3",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-4",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "reward_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "reward_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "reward_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "reward_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "reward_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "reward_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_reward.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "money_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "money_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "money_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "money_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "money_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "money_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_money.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "fitness_maximizer-0",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "fitness_maximizer-1",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "fitness_maximizer-2",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "fitness_maximizer-3",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "fitness_maximizer-4",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    },
+    {
+        "aligned": "saint-5",
+        "misaligned": "fitness_maximizer-5",
+        "valid_data": "data/benchmark/saint_and_fitness.json"
+    }
+]

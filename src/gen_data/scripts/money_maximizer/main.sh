@@ -1,0 +1,3 @@
+sbatch scripts/money_maximizer/good_oversight.sh
+sbatch scripts/money_maximizer/poor_oversight.sh
+sbatch scripts/money_maximizer/neutral_oversight.sh

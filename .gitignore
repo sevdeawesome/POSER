@@ -1,0 +1,10 @@
+models/
+configs/credentials.json
+build/
+env/
+upload_data.py
+genies-datasets.tar
+poserenv
+together_tuning
+src/alignment_tuning
+results
