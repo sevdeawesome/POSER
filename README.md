@@ -10,7 +10,8 @@
 - Severin Field
 
 ### Paper:
-🚀 ["put link here"](www.google.com)
+🚀 [Poser: Unmasking Alignment Faking LLMs by Manipulating Their Internals
+](https://arxiv.org/abs/2405.05466))
 
 ### The repository contains:
 - Jupyter notebooks explaining how we implement each strategy in `src/detection_strategies/strategy_X.ipynb`
