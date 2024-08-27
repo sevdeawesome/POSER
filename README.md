@@ -16,7 +16,7 @@
 ### The repository contains:
 - Jupyter notebooks explaining how we implement each strategy in `src/detection_strategies/strategy_X.ipynb`
 - Example scripts are in `/scripts` (we use these to run our detection strategies on the models) 
-- Datasets in `/distributions` 
+- Datasets in `data/distributions` 
 - Code we used for generating datasets in `src/gen_data` 
 - models are publicly available on huggingface, use `download.py` to download them into the `models` directory
 
@@ -55,7 +55,7 @@ python download.py
 ### Strategy 2: Intoxicate models so they reveal bad behavior
 * 98% accuracy
 > file: `src/detection_strategies/strategy_2.ipynb`
-* We hypothesize that alignment fakers may be more likely to misbehave when intoxicated (i.e., when their activations are perturbed).
+* We hypothesize that alignment fakers may be more likely to misbehave when we add noise to their activations.
 * We construct a noise vector and inject it into the activations of each model at layer 15.
 * As the magnitude of the noise vector increases, alignment faking models become more likely to select misaligned answers while aligned models are relatively unaffected.
 
@@ -86,11 +86,6 @@ python download.py
 * We make a copy of each prompt, but remove the "critical fact" - the bits of the scenario implying oversight
 * We measure cosine similarity of activations under the copied prompts and the originals
 * The alignment faker is predicted to be the model that has lower cosine similarity scores over activations
-
-
-### Alignment Tuning:
-> Caden should maybe write this
-
 
 
 
